@@ -1,1 +1,7 @@
-{}
+{
+  "projects": {
+    "default": "luis-castillo-portfolio",
+    "PortfolioDemo": "luis-castillo-portfolio",
+    "demo": "fir-857e8"
+  }
+}
